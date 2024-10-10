@@ -4,9 +4,10 @@ subject: 'astro-ph'
 # 検索キーワード
 keywords:
         machine learning: 3
+        deep learning: 1
         star formation: 3
         orion: 3
 
 
 # 通知の閾値
-score_threshold: 0
+score_threshold: 1

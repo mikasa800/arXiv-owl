@@ -3,8 +3,6 @@ subject: 'astro-ph'
 
 # 検索キーワード
 keywords:
-        astro-ph: 3
-        astro-ph.CO:3
         machine learning: 3
         star formation: 3
         orion: 3
